@@ -6,9 +6,9 @@
 		<fullscreen> false </>        
 		<borderless> false </>
          	<resizable>  false </>
-         	<fulscreen_Widowed> false </>
-         	<screen_Width> 640 </>
-         	<screen_Height> 480 </>
+         	<fulscreen_window> false </>
+         	<width> 640 </>
+         	<height> 480 </>
 		<scale> 1 </>
 		<name>My super awesome game with XML </name>
         </window>
